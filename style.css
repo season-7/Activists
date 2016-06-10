@@ -1,0 +1,37 @@
+body {
+	font-family: 'Raleway', sans-serif;
+	
+}
+  body {
+    background-image: "bck_world.jpg";
+    background-color: #cccccc;
+	font-size: 34px;
+}
+h1 {
+    color: #188e85;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-size: 36px
+}
+p {
+    font-family: 'Raleway', sans-serif;
+    font-size: 24px;
+}
+
+li {
+    float: left;
+	display: inline;
+	text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+a {
+    display: block;
+    padding: 20px;
+    
+}
+h3 {
+	color: #297b7b;
+	font-size: 35px
+}
