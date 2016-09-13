@@ -35,3 +35,12 @@ h3 {
 	color: #297b7b;
 	font-size: 35px
 }
+ header, main, footer {
+      padding-left: 300px;
+    }
+
+    @media only screen and (max-width : 992px) {
+      header, main, footer {
+        padding-left: 0;
+      }
+    }
