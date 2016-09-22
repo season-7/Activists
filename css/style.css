@@ -44,6 +44,11 @@ h3 {
         padding-left: 0;
       }
     }
-nav1{
+#nav1{
     background-color: aqua;
+}
+#owl-demo .item img{
+    display: block;
+    width: 100%;
+    height: auto;
 }
